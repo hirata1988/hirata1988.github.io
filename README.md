@@ -1,4 +1,4 @@
-# hirata1988.github.io
+# hirata1988.github.i
 gitの管理
 
 1、GITの管理
