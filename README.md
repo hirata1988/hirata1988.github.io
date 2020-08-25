@@ -1,2 +1,4 @@
 # hirata1988.github.io
-gitの練習用
+gitの管理
+
+1、GITの管理
